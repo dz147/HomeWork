@@ -17,3 +17,5 @@
 - 使用union是因为有省有市但有可能区县为空。
 ###union
 union和union all的区别是,union会自动压缩多个结果集合中的重复结果，而union all则将所有的结果全部显示出来，不管是不是重复。
+
+[分表总结](https://www.cnblogs.com/dzcici/p/9642879.html)
